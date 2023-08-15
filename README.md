@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://private/var/folders/sh/ltx2bmpx6dlfr1p2z1fh638c0000gn/T/5800508df7e43862c23e581e7701894f/Kapture%202023-08-15%20at%2012.11.49.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
