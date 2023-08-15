@@ -20,8 +20,8 @@ The following ColorWaves functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
- src='[file:///Users/maryamjamil/Desktop/Kapture%202023-08-15%20at%2012.11.49.gif](https://drive.google.com/file/d/1h2MXpmi-1BBy_UXIn9_nEAUx2_ReNn_T/view?usp=sharing.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough'
+<ime
+ src='[file:///Users/maryamjamil/Desktop/Kapture%202023-08-15%20at%2012.11.49.gif](https://drive.google.com/file/d/1h2MXpmi-1BBy_UXIn9_nEAUx2_ReNn_T/view?usp=sharing.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
